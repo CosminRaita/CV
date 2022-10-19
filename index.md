@@ -1,5 +1,3 @@
- Cosmin has the best website
-
 ![Myself](D:\Web Development\images\me.png)
 
 Cosmin Raita
